@@ -1,0 +1,23 @@
+
+.bottomMargin {
+  margin-bottom: 20px!important;
+}
+.contactName {
+  font-size: 18px;
+  font-weight: 600;
+}
+.phoneNumber {
+  font-size: 14px;
+  font-weight: 400;
+}
+.storeNumber {
+  font-size: 12px;
+  font-weight: 400;
+  background-color: rgb(206, 198, 198);
+  width: fit-content;
+}
+
+.detailsList
+{  
+  border:1px solid rgb(96, 94, 92);
+}
